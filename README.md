@@ -25,7 +25,7 @@ The analysis was conducted as part of a research study on teacher distribution a
 If you use this code or data, please cite:
 ## Author
 [Muhindo Alex]  
-[Kabale University]  
+[Secondary Science and Mathematics Teachers (SESEMAT) Ntungamo Region, Uganda]  
 2026
 
 ## License
